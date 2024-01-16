@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/posts"
+  to = "/posts.html"
+  status = 200
+
+[[redirects]]
+  from = "/jobs-tree"
+  to = "/jobs.html"
+  status = 200
